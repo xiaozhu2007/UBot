@@ -1,0 +1,48 @@
+{
+  "name": "ubot",
+  "version": "1.0.0",
+  "description": "UBot, another Minecraft bot based on Mineflayer.",
+  "main": "main.js",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dateformat": "4.5.1",
+    "delay": "5.0.0",
+    "dotenv": "^16.4.5",
+    "execa": "^8.0.1",
+    "inquirer": "^9.2.19",
+    "jsonfile": "^6.1.0",
+    "mineflayer": "^4.20.1",
+    "mineflayer-pathfinder": "^2.4.5",
+    "minecraft-data": "^3.64.1",
+    "node-fetch": "^3.3.2",
+    "readline": "^1.3.0",
+    "vec3": "^0.1.10"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug:ps": "$Env:DEBUG=\"minecraft-protocol\";node main.js",
+    "debug:bash": "DEBUG=\"minecraft-protocol\" node main.js"
+  },
+  "author": {
+    "url": "https://github.com/xiaozhu2007",
+    "email": "lz19986912007@163.com",
+    "name": "xiaozhu2007"
+  },
+  "contributors": [
+    "HelloTools-bot <3356136957@qq.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaozhu2007/UBot"
+  },
+  "license": "WTFPL",
+  "homepage": "https://github.com/xiaozhu2007/UBot#readme",
+  "bugs": {
+    "url": "https://github.com/xiaozhu2007/UBot/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://afdian.net/a/xiaozhu2021"
+  }
+}
