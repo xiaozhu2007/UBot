@@ -1,5 +1,5 @@
 {
-  "name": "ubot",
+  "name": "ubot-mc",
   "version": "1.0.0",
   "description": "UBot, another Minecraft bot based on Mineflayer.",
   "main": "main.js",
@@ -29,9 +29,6 @@
     "email": "lz19986912007@163.com",
     "name": "xiaozhu2007"
   },
-  "contributors": [
-    "HelloTools-bot <3356136957@qq.com>"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/xiaozhu2007/UBot"

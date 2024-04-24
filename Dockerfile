@@ -8,6 +8,7 @@ ENV UB_PASSWORD="password"
 ENV LOGIN_PASSWORD="password"
 ENV LOGIN="no"
 ENV UB_AUTH="mojang"
+ENV ENABLE_AB_MESSAGE="false"
 
 COPY package*.json ./
 
