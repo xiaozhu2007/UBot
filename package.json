@@ -1,6 +1,6 @@
 {
   "name": "ubot-mc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UBot, another Minecraft bot based on Mineflayer.",
   "main": "main.js",
   "dependencies": {
