@@ -6,7 +6,7 @@
   "dependencies": {
     "cross-env": "^7.0.3",
     "dateformat": "4.5.1",
-    "delay": "5.0.0",
+    "delay": "6.0.0",
     "dotenv": "^16.4.5",
     "execa": "^8.0.1",
     "inquirer": "^9.2.19",
